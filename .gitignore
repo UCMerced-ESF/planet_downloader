@@ -1,0 +1,6 @@
+/planet_data
+.env
+planet_status.json
+*.log
+planet_downloader.log
+.DS_Store
